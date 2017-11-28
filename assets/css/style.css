@@ -1,0 +1,48 @@
+body {
+	background-color: gray;
+	color: navy;
+	height: 500px;
+	width: 100%;
+}
+
+.header {
+	height: 80px;
+	line-height: 80px;
+	margin-left: 5px;
+	font-size: 36px;
+	color:white;
+}
+
+.menuBar {
+	height: 720px;
+}
+
+.mainContent {
+	height: 720px;
+}
+
+.menu {
+	background-color:lightgray;
+	border:1px solid gray;
+	/*margin-right:0px;*/
+}
+
+.glyph {
+	
+	color:gray;
+	height: 30px;
+	line-height: 40px;
+	margin: -2px 0px 0px 0px;
+	padding-left: 20px;
+	width:45px;
+	font-size: 20px;
+}
+
+.menuItem {
+	color: gray;	
+	font-size: 14px;
+	font-weight: bold;
+	height: 40px;
+	line-height: 40px;
+	width:160px;
+}

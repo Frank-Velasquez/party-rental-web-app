@@ -1,1 +1,2 @@
-# party-rental-web-app
+# Rental_Inventory
+Rental Inventory
